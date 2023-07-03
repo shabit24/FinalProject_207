@@ -16,6 +16,7 @@ public:
     virtual float Circumference(int a) { return 0; }
     virtual void checkSize() { return; }
 
+
     void setX(int a) {
         this->x = a;
     }
